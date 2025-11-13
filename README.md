@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>🌦️ پیش‌بینی ۵ روز آینده‌ی هوا</title>
-  <style>
+  <tyle>
     body {
       font-family: sans-serif;
       background: linear-gradient(135deg, #74ebd5, #ACB6E5);
